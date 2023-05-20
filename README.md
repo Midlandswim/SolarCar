@@ -2,7 +2,7 @@
 The Solar Car created by the Bergen County Academies Solar Knights
 
 Researcher: Wilson Dhalwani and the BCA Solar Knights <br />
-Advisor: Mr. Micheal Liva (BCA) & Mr. EE (William EE's Father) & Mr. Victor Samarkone (BCA) <br />
+Advisor: Mr. Michael Liva (BCA) & Mr. EE (William EE's Father) & Mr. Victor Samarkone (BCA) <br />
 Context: The Solar Car Challenge in Texas <br />
 Projekt Name: Solar Knight's Solar Car <br />
 Start Date: September 30, 2022 <br />
